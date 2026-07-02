@@ -2,7 +2,7 @@
 
 I'm Justin, an applied math student at [**Johns Hopkins University**](https://engineering.jhu.edu/ams/).
 
-I currently intern at [**Microsoft**](https://www.microsoft.com), where I work on [**Copilot Studio**](https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio) building out agentic eval frameworks and real-time LLM-as-a-judge systems. Previously, I worked on engineering/research teams at [**Freddie Mac**](https://www.freddiemac.com), [**Brown Advisory**](https://www.brownadvisory.com/us/homepage), [**NASA**](https://www.nasa.gov/), and [**NIST**](https://www.nist.gov).
+I currently intern at [**Microsoft**](https://www.microsoft.com), where I work on [**Copilot Studio**](https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio) building out agentic eval frameworks and real-time LLM-as-a-judge systems. Previously, I worked on data/ML teams at [**Freddie Mac**](https://www.freddiemac.com), [**Brown Advisory**](https://www.brownadvisory.com/us/homepage), [**NASA**](https://www.nasa.gov/), and [**NIST**](https://www.nist.gov).
 
 I'm fascinated by math, physics, machine learning, and programming applied to complex and novel problem spaces.
 
