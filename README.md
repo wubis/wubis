@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Justin, a student at Johns Hopkins University
+I'm Justin, an applied math student at Johns Hopkins University
 
 I currently intern at [**Microsoft**](https://www.microsoft.com), where I work on [**Copilot Studio**](https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio) building out agentic eval frameworks and real-time LLM-as-a-judge systems on production telemetry data. Previously, I worked on data science/engineering teams at [**Freddie Mac**](https://www.freddiemac.com), [**Brown Advisory**](https://www.brownadvisory.com/us/homepage), [**NASA**](https://www.nasa.gov/), and [**NIST**](https://www.nist.gov)
 
