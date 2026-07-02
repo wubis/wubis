@@ -6,7 +6,7 @@ I currently intern at [**Microsoft**](https://www.microsoft.com), where I work o
 
 I'm fascinated by math, physics, machine learning, and programming applied to complex and novel problem spaces.
 
-Outside of school and work, I'm interested in painting, photography, skiing, tennis, poker, and traveling. Also a big fan of food.
+Outside of school and work, I'm interested in painting, photography, skiing, poker, and traveling. Also a big fan of food.
 
 ### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/justin-wang-8a268a28a/)
